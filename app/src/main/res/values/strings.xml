@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CPMobile</string>
+    <string name="destination">Destino:</string>
+    <string name="date">Data:</string>
+    <string name="transport">Transporte:</string>
+    <string name="destination_hint">Coloque seu destino</string>
+    <string name="date_hint">Coloque a data</string>
+    <string name="submit">Enviar</string></resources>
